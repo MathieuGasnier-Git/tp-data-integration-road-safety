@@ -1,0 +1,28 @@
+catv,catv_label
+1,Bicycle
+2,Moped
+3,Quad/light motorcycle
+7,Passenger car
+10,Utility vehicle
+13,Truck under 7.5t
+14,Truck 7.5t or more
+15,Truck with trailer
+17,Road tractor
+21,Agricultural tractor
+30,Scooter
+31,Motorcycle
+32,Scooter under 50cm3
+33,Motorcycle 50-125cm3
+34,Motorcycle over 125cm3
+36,Light quad
+37,Bus
+38,Coach
+39,Train
+40,Tramway
+41,Trailer 3-wheeler
+42,Trailer more than 3 wheels
+43,Quad more than 50cm3
+50,EDPM with motor
+60,EDPM without motor
+80,Personal mobility device with motor
+99,Other vehicle
